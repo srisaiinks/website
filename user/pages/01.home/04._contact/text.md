@@ -26,4 +26,4 @@ Chennai 600070
 [Location](https://goo.gl/maps/jUymcaPbUMUzo85r6?classes=btn,btn-primary)
 
 Mobile: 98400 15543 <br>
-[E-Mail](mailto:info@srisaiinks.in)
+E-Mail: [info@srisaiinks.in](mailto:info@srisaiinks.in)
