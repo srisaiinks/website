@@ -25,7 +25,7 @@ features:
     
 ---
 
-# Why Grav?
-## **build sites better**
+# We deal with all kinds of Ink
+## **of all colors that creates history**
 
 We believe the best recipe to make something great, is to bake with [quality ingredients](#features) and add dollops of [cool stuff](#features). 
