@@ -7,8 +7,6 @@ header-dark: false
 header-transparent: false
 sticky-footer: true
 blog-page: '/blog'
-custom_logo:
-  logo.name: logo.jpg
 spectre:
   exp: false
   icons: false
