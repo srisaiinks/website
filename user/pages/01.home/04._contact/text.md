@@ -20,4 +20,4 @@ Thendral Nagar, <br>
 Anakaputhur, <br>
 Chennai 600070
 
-[Location](https://goo.gl/maps/SB1JHZhvciya5aB38?classes=btn,btn-primary)
+[Location](https://goo.gl/maps/jUymcaPbUMUzo85r6?classes=btn,btn-primary)
