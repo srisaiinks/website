@@ -28,4 +28,5 @@ features:
 # We deal with all kinds of Ink
 ## **of all colors that creates history**
 
-We believe the best recipe to make something great, is to bake with [quality ingredients](#features) and add dollops of [cool stuff](#features). 
+We only sell the best environment friendly organic Inks with low VOC
+
