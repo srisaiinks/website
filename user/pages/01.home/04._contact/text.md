@@ -10,7 +10,7 @@ image_align: right
 
 3-4-512/78, Barkatpura, <br>
 Hyderabad 500027 <br>
-[Location](https://goo.gl/maps/2ffQegf21bKp9Tmy7,btn-primary,btn-lg)
+[Location](https://goo.gl/maps/2ffQegf21bKp9Tmy7) {.btn-primary}
 
 ### Branch Office ###
 
