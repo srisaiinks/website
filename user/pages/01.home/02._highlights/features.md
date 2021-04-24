@@ -12,11 +12,14 @@ features:
     - header: Quick Fill
       text: "Inks on demand"
       icon: las la-fill-drip
-    - header: Free / Open Source
-      text: "Grav is an open source project, so you can spend your money on other stuff"
-      icon: fa fa-money
-           
-    
+    - header: Economy
+      text: "True saver"
+      icon: las la-wallet
+    - header: Environment Friendly
+      text: "Go Green"
+      icon: lab la-envira
+
+              
 ---
 
 # We deal with all kinds of Ink
