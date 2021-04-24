@@ -238,7 +238,6 @@ class Validation
             $value = trim($value);
         }
 
-        $value = preg_replace("/\r\n|\r/um", "\n", $value);
         $len = mb_strlen($value);
 
         $min = (int)($params['min'] ?? 0);
@@ -281,7 +280,7 @@ class Validation
             $value = trim($value);
         }
 
-        return preg_replace("/\r\n|\r/um", "\n", $value);
+        return $value;
     }
 
     /**

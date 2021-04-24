@@ -600,13 +600,7 @@ class InstallCommand extends GpmCommand
         try {
             $output = Response::get($package->zipball_url . $query, [], [$this, 'progress']);
         } catch (Exception $e) {
-            if (!empty($package->premium) && $e->getCode() === 401) {
-                $message = '<yellow>Unauthorized Premium License Key</yellow>';
-            } else {
-                $message = $e->getMessage();
-            }
-
-            $error = str_replace("\n", "\n  |  '- ", $message);
+            $error = str_replace("\n", "\n  |  '- ", $e->getMessage());
             $io->write("\x0D");
             // extra white spaces to clear out the buffer properly
             $io->writeln('  |- Downloading package...    <red>error</red>                             ');

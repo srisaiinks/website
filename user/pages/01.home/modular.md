@@ -1,20 +1,11 @@
 ---
-title: Home
+title: One Page Demo Site
 menu: Home
-onpage_menu: false
-body_classes: "modular header-image fullwidth"
+onpage_menu: true
+body_classes: title-h1h2 header-dark header-transparent
 
 content:
     items: @self.modular
-    order:
-        by: default
-        dir: asc
-        custom:
-            - _showcase
-            - _highlights                        
-            - _callout
-            - _bottom
-            - _contact
 ---
 
 

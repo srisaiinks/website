@@ -739,25 +739,25 @@
             "install-path": "../filp/whoops"
         },
         {
-            "name": "getgrav/cache",
-            "version": "v2.0.0",
-            "version_normalized": "2.0.0.0",
+            "name": "gregwar/cache",
+            "version": "dev-php8",
+            "version_normalized": "dev-php8",
             "target-dir": "Gregwar/Cache",
             "source": {
                 "type": "git",
                 "url": "https://github.com/getgrav/Cache.git",
-                "reference": "56fd63f752779928fcd1074ab7d12f406dde8861"
+                "reference": "49ccdf9ae760b009a192bc3c7b417980c8a8cc2e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/getgrav/Cache/zipball/56fd63f752779928fcd1074ab7d12f406dde8861",
-                "reference": "56fd63f752779928fcd1074ab7d12f406dde8861",
+                "url": "https://api.github.com/repos/getgrav/Cache/zipball/49ccdf9ae760b009a192bc3c7b417980c8a8cc2e",
+                "reference": "49ccdf9ae760b009a192bc3c7b417980c8a8cc2e",
                 "shasum": ""
             },
             "require": {
                 "php": ">=5.3"
             },
-            "time": "2021-04-20T05:48:00+00:00",
+            "time": "2020-12-02T10:54:35+00:00",
             "type": "library",
             "installation-source": "dist",
             "autoload": {
@@ -765,7 +765,6 @@
                     "Gregwar\\Cache": ""
                 }
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -773,11 +772,6 @@
                 {
                     "name": "Gregwar",
                     "email": "g.passault@gmail.com"
-                },
-                {
-                    "name": "Grav CMS",
-                    "email": "hello@getgrav.org",
-                    "homepage": "https://getgrav.org"
                 }
             ],
             "description": "A lightweight file-system cache system",
@@ -788,29 +782,29 @@
                 "system"
             ],
             "support": {
-                "source": "https://github.com/getgrav/Cache/tree/v2.0.0"
+                "source": "https://github.com/getgrav/Cache/tree/php8"
             },
-            "install-path": "../getgrav/cache/Gregwar/Cache"
+            "install-path": "../gregwar/cache/Gregwar/Cache"
         },
         {
-            "name": "getgrav/image",
-            "version": "v3.0.0",
-            "version_normalized": "3.0.0.0",
+            "name": "gregwar/image",
+            "version": "dev-php8",
+            "version_normalized": "dev-php8",
             "target-dir": "Gregwar/Image",
             "source": {
                 "type": "git",
                 "url": "https://github.com/getgrav/Image.git",
-                "reference": "02c1bb2c179dd894c4f6610c9c49da364ee7d264"
+                "reference": "ea23859700f32447a85e79d96f331e3d6c8897a8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/getgrav/Image/zipball/02c1bb2c179dd894c4f6610c9c49da364ee7d264",
-                "reference": "02c1bb2c179dd894c4f6610c9c49da364ee7d264",
+                "url": "https://api.github.com/repos/getgrav/Image/zipball/ea23859700f32447a85e79d96f331e3d6c8897a8",
+                "reference": "ea23859700f32447a85e79d96f331e3d6c8897a8",
                 "shasum": ""
             },
             "require": {
                 "ext-gd": "*",
-                "getgrav/cache": "^2.0",
+                "gregwar/cache": "dev-php8",
                 "php": "^5.6 || ^7.0 || ^8.0"
             },
             "require-dev": {
@@ -820,7 +814,7 @@
             "suggest": {
                 "behat/transliterator": "Transliterator provides ability to set non-latin1 pretty names"
             },
-            "time": "2021-04-20T05:50:18+00:00",
+            "time": "2021-03-15T17:03:52+00:00",
             "type": "library",
             "installation-source": "dist",
             "autoload": {
@@ -828,7 +822,6 @@
                     "Gregwar\\Image": ""
                 }
             },
-            "notification-url": "https://packagist.org/downloads/",
             "license": [
                 "MIT"
             ],
@@ -837,11 +830,6 @@
                     "name": "Grégoire Passault",
                     "email": "g.passault@gmail.com",
                     "homepage": "http://www.gregwar.com/"
-                },
-                {
-                    "name": "Grav CMS",
-                    "email": "hello@getgrav.org",
-                    "homepage": "https://getgrav.org"
                 }
             ],
             "description": "Image handling",
@@ -851,9 +839,9 @@
                 "image"
             ],
             "support": {
-                "source": "https://github.com/getgrav/Image/tree/v3.0.0"
+                "source": "https://github.com/getgrav/Image/tree/php8"
             },
-            "install-path": "../getgrav/image/Gregwar/Image"
+            "install-path": "../gregwar/image/Gregwar/Image"
         },
         {
             "name": "guzzlehttp/psr7",
@@ -2246,17 +2234,17 @@
         },
         {
             "name": "rockettheme/toolbox",
-            "version": "1.5.9",
-            "version_normalized": "1.5.9.0",
+            "version": "1.5.7",
+            "version_normalized": "1.5.7.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/rockettheme/toolbox.git",
-                "reference": "2d6693235aaca2efaadb61c84dac927aaf4eabfa"
+                "reference": "8d3ebc4d982595d6eac90e851f2b4d5c0cec0399"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/rockettheme/toolbox/zipball/2d6693235aaca2efaadb61c84dac927aaf4eabfa",
-                "reference": "2d6693235aaca2efaadb61c84dac927aaf4eabfa",
+                "url": "https://api.github.com/repos/rockettheme/toolbox/zipball/8d3ebc4d982595d6eac90e851f2b4d5c0cec0399",
+                "reference": "8d3ebc4d982595d6eac90e851f2b4d5c0cec0399",
                 "shasum": ""
             },
             "require": {
@@ -2271,7 +2259,7 @@
                 "phpstan/phpstan-deprecation-rules": "^0.12",
                 "phpunit/phpunit": "~7.0"
             },
-            "time": "2021-04-14T19:52:40+00:00",
+            "time": "2021-02-17T17:58:36+00:00",
             "type": "library",
             "installation-source": "dist",
             "autoload": {
@@ -2299,7 +2287,7 @@
             ],
             "support": {
                 "issues": "https://github.com/rockettheme/toolbox/issues",
-                "source": "https://github.com/rockettheme/toolbox/tree/1.5.9"
+                "source": "https://github.com/rockettheme/toolbox/tree/1.5.7"
             },
             "install-path": "../rockettheme/toolbox"
         },

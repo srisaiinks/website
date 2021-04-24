@@ -474,28 +474,17 @@ class PageStorage extends FolderStorage
     }
 
     /**
-     * Check if page folder should be deleted.
-     *
-     * Deleting page can be done either by deleting everything or just a single language.
-     * If key contains the language, delete only it, unless it is the last language.
-     *
      * @param string $key
      * @return bool
      */
     protected function canDeleteFolder(string $key): bool
     {
-        // Return true if there's no language in the key.
         $keys = $this->extractKeysFromStorageKey($key);
-        if (!$keys['lang']) {
-            return true;
+        if ($keys['lang']) {
+            return false;
         }
 
-        // Get the main key and reload meta.
-        $key = $this->buildStorageKey($keys);
-        $meta = $this->getObjectMeta($key, true);
-
-        // Return true if there aren't any markdown files left.
-        return empty($meta['markdown'] ?? []);
+        return true;
     }
 
     /**
