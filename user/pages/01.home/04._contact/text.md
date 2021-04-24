@@ -1,18 +1,15 @@
 ---
-title: About
-menu: About
+title: Contact Us
+menu: Contact
 image_align: right
 ---
 
-## **About** Us!
+## **Contact** Us!
 
-We are printing Ink providers based out of India supplying organic inks with low VOC. We are the dealers of Organic Coatings Ltd. who are the pioneers in the Ink manufacturing industry with several patents to their credit.
+### Head Office ###
 
-We sell the following types of Inks
+Hyderabad
 
-+ Water-based Inks & Coatings
-  - Flexo Inks 
-+ UV Inks and Coatings
-  - UV Curing Inks
-+ Plasto coats
-+ Dual color Ink 
+### Branch Office ###
+
+Chennai
