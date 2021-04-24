@@ -8,7 +8,7 @@ hero_image: header.jpg
 # Sri Sai Ink Providers
 ## Rainbow of Print
 
-Dealers of [Organic Coating](https://www.google.com)
+Dealers of [Organic Coatings Limited](http://organiccoatingsltd.com/)
 
 
 
