@@ -2,6 +2,7 @@
 title: Homepage Features
 menu: Colors
 class: small
+features:
 ---
 
 # Colors of your choice
