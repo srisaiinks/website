@@ -5,7 +5,7 @@ class: offset-box
 features:
 	- header: Multi Color
 	  text: "Color that creates history"
-	  icon: las la-palette
+	  icon: la la-palette
     - header: Easy to build
       text: "Simple text files means Grav is trivial to install, and easy to maintain"
       icon: fa fa-database
