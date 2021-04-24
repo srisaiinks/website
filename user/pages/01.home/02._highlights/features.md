@@ -6,9 +6,9 @@ features:
 	- header: Multi Color
 	  text: "Color that creates history"
 	  icon: las la-palette
-    - header: Easy to build
-      text: "Simple text files means Grav is trivial to install, and easy to maintain"
-      icon: fa fa-database
+    - header: Bright
+      text: "Till the last drop"
+      icon: las la-tint
     - header: Awesome Technology
       text: "Grav employs best-in-class technologies such as Twig, Markdown &amp; Yaml"
       icon: fa fa-cubes
