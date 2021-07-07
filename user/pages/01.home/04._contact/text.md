@@ -23,7 +23,7 @@ V.O.C Nagar, <br>
 Pammal, <br>
 Chennai 600075
 
-[Location](https://goo.gl/maps/jUymcaPbUMUzo85r6?classes=btn,btn-primary)
+[Location](https://goo.gl/maps/1WFyqqheyTyfdMH36?classes=btn,btn-primary)
 
 Mobile: 98400 15543 <br>
 E-Mail: [info@srisaiinks.in](mailto:info@srisaiinks.in)
