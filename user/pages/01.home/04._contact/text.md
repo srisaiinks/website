@@ -18,10 +18,10 @@ Mobile: 98491 90438
 
 ### Branch Office ###
 
-21A, Manimekalai Street, <br>
-Thendral Nagar, <br>
-Anakaputhur, <br>
-Chennai 600070
+No.10, Shivaji Street, <br>
+V.O.C Nagar, <br>
+Pammal, <br>
+Chennai 600075
 
 [Location](https://goo.gl/maps/jUymcaPbUMUzo85r6?classes=btn,btn-primary)
 
