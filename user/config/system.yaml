@@ -13,7 +13,7 @@ cache:
   enabled: true
   check:
     method: file
-  driver: auto
+  driver: apc
   prefix: 'g'
 
 twig:
